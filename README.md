@@ -1,2 +1,2 @@
-# OuterWorlds-SDK
- An SDK for Windows Store (aka UWP) version of "The Outer Worlds" game.
+# TOW-SDK
+An SDK for ___The Outer Worlds (___ _Windows Store Version_ ___)___. `[Maintained by Zanzo]`
